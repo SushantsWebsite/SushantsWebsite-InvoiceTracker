@@ -4,11 +4,7 @@ A Streamlit app for uploading invoice PDFs and extracting invoice metadata, over
 
 ## Open the app
 
-Deploy this repository on Streamlit Community Cloud:
-
-- [Deploy Invoice PDF Tracker](https://share.streamlit.io/deploy?repository=https%3A%2F%2Fgithub.com%2FSushantsWebsite%2FSushantsWebsite-InvoiceTracker&branch=main&mainModule=invoice_pdf_tracker.py)
-
-The public app URL will be added here after deployment is complete.
+[Open Invoice PDF Tracker](https://sushantswebsite-sushantswebsite-invo-invoice-pdf-tracker-uu6jtf.streamlit.app/)
 
 ## Features
 
