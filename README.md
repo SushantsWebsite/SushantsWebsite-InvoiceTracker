@@ -2,11 +2,13 @@
 
 A Streamlit app for uploading invoice PDFs and extracting invoice metadata, overdue status, and payment information.
 
-## Live app
+## Open the app
 
-Local development URL:
+Deploy this repository on Streamlit Community Cloud:
 
-- http://localhost:8503
+- [Deploy Invoice PDF Tracker](https://share.streamlit.io/deploy?repository=https%3A%2F%2Fgithub.com%2FSushantsWebsite%2FSushantsWebsite-InvoiceTracker&branch=main&mainModule=invoice_pdf_tracker.py)
+
+The public app URL will be added here after deployment is complete.
 
 ## Features
 
@@ -19,10 +21,10 @@ Local development URL:
 ## Run locally
 
 ```bash
-pip install streamlit pandas pypdf
+pip install -r requirements.txt
 streamlit run invoice_pdf_tracker.py
 ```
 
 ## Deployment
 
-This project is ready to be deployed to Streamlit Cloud or any Python hosting service.
+The repository includes `requirements.txt` for Streamlit Community Cloud. Select `main` as the branch and `invoice_pdf_tracker.py` as the app entry point.
